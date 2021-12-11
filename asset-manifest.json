@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.e303a4eb.chunk.css",
-    "main.js": "/static/js/main.e1f17427.chunk.js",
-    "main.js.map": "/static/js/main.e1f17427.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b791bf6a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b791bf6a.js.map",
-    "static/js/2.2b975f59.chunk.js": "/static/js/2.2b975f59.chunk.js",
-    "static/js/2.2b975f59.chunk.js.map": "/static/js/2.2b975f59.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.e303a4eb.chunk.css.map": "/static/css/main.e303a4eb.chunk.css.map",
-    "static/js/2.2b975f59.chunk.js.LICENSE.txt": "/static/js/2.2b975f59.chunk.js.LICENSE.txt"
+    "main.css": "/kelime-oyunu/static/css/main.1a106d59.chunk.css",
+    "main.js": "/kelime-oyunu/static/js/main.eb8a2a2a.chunk.js",
+    "main.js.map": "/kelime-oyunu/static/js/main.eb8a2a2a.chunk.js.map",
+    "runtime-main.js": "/kelime-oyunu/static/js/runtime-main.02522086.js",
+    "runtime-main.js.map": "/kelime-oyunu/static/js/runtime-main.02522086.js.map",
+    "static/js/2.2b975f59.chunk.js": "/kelime-oyunu/static/js/2.2b975f59.chunk.js",
+    "static/js/2.2b975f59.chunk.js.map": "/kelime-oyunu/static/js/2.2b975f59.chunk.js.map",
+    "index.html": "/kelime-oyunu/index.html",
+    "static/css/main.1a106d59.chunk.css.map": "/kelime-oyunu/static/css/main.1a106d59.chunk.css.map",
+    "static/js/2.2b975f59.chunk.js.LICENSE.txt": "/kelime-oyunu/static/js/2.2b975f59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b791bf6a.js",
+    "static/js/runtime-main.02522086.js",
     "static/js/2.2b975f59.chunk.js",
-    "static/css/main.e303a4eb.chunk.css",
-    "static/js/main.e1f17427.chunk.js"
+    "static/css/main.1a106d59.chunk.css",
+    "static/js/main.eb8a2a2a.chunk.js"
   ]
 }
