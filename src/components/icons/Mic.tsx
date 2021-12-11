@@ -1,12 +1,7 @@
-import * as React from "react";
-
-const SvgMicrophone = (props) => (
+const SvgMic: React.FC<React.SVGProps<SVGSVGElement>> = (props) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 512 512"
-    style={{
-      enableBackground: "new 0 0 512 512",
-    }}
     xmlSpace="preserve"
     width="1em"
     height="1em"
@@ -17,4 +12,4 @@ const SvgMicrophone = (props) => (
   </svg>
 );
 
-export default SvgMicrophone;
+export default SvgMic;
